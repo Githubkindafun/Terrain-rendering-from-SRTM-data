@@ -8,8 +8,6 @@ Everything is implemented in C++ with OpenGL.
 **Some pretty shots:**
 ![alpes](https://github.com/user-attachments/assets/0688fa8a-9578-41f2-af06-882c3c24daa5)
 ![alpes3D](https://github.com/user-attachments/assets/539e0bce-72b3-43be-930c-9927adf21525)
-![poland](https://github.com/user-attachments/assets/f578d72e-7622-4591-a1c8-be52f0c4f6a8)
-
 
 ## Usage
 There are 3 optional arguments:
